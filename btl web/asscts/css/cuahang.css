@@ -1,0 +1,24 @@
+.row{
+    width: 30%;
+    margin: 0 auto;
+}
+.logn{
+    width: auto;
+    height: 100px;
+    margin-left: 200px;
+    margin-right: 400px;
+    display: flex;
+    background-color: black;
+    color: grey;
+}
+h3{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+form{
+    width: 35%;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    color: grey;
+}

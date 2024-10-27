@@ -1,0 +1,15 @@
+.boxcenter{
+    width: 20%;
+    margin: 0 auto;
+}
+form{
+    width: 50%;
+    margin: 50px auto;
+}
+button{
+    width: 10%;
+    height: 20px;
+   margin-left: 380px;
+    background-color: orangered;
+    color: white;
+}
